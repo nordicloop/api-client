@@ -5,6 +5,7 @@
   "main": "dist/moneybutton.client.cjs.js",
   "module": "dist/moneybutton.client.esm.js",
   "unpkg": "dist/moneybutton.client.iife.js",
+  "browser": "dist/moneybutton.client.browser.esm.js",
   "library": "moneyButtonClient",
   "files": [
     "dist/**"
