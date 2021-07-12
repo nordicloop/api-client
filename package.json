@@ -2,10 +2,9 @@
   "name": "@moneybutton/api-client",
   "version": "0.38.5",
   "description": "Money Button API JavaScript client.",
-  "main": "dist/moneybutton.client.cjs.js",
+  "main": "src/index.js",
   "module": "dist/moneybutton.client.esm.js",
   "unpkg": "dist/moneybutton.client.iife.js",
-  "browser": "dist/moneybutton.client.browser.esm.js",
   "library": "moneyButtonClient",
   "files": [
     "dist/**"
